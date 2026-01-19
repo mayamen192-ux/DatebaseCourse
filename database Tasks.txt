@@ -1,0 +1,19 @@
+1.	Comparison Assignment: Flat File Systems vs. Relational Database:
+a. Structure: in flat file system: data are sorted in one structured table or text file without define their meta data such as: primary key,
+in Relational Database are sorted in multiple structured tables with define their meta data such as: primary key.
+b .Data Redundancy: flat file system: there are alt of duplicates due to values that are repeated  in recodes , 
+in Relational Database: there is few duplicates by do linking tables.
+c. Relationships: flat file system: data are unlinked and independent so there no relationships,
+Relational Database: data are connecting to multiple tables by using primary key which make relationships in the database
+d .Usage: Flat File Systems: use simple database and small applications,
+in Relational Database: use big database and applications such as: Bank system
+e. drawbacks: in flat file system : easy to solve problems but not suitable  for large usage.
+in Relational Database: difficult solve problems but suitable for large usage.
+------------------------------------------------------------------------
+3.3.Roles in a Database System:
+System analyst: gather the requirements by understand business needs and translated them to requirements.
+Database Designer: drew the tables using ERD which stand to entity relationships diagrams in order to represent data relationships.
+Database Developer: implements the actual database including: tables and others. also Database Developer writes SQL queries.
+Database Administrator: set up software of the database. Also put permissions for control the user access in order to enhance the security .
+Application Developer: connects the applications to the database by using APIs (Application Programming interfaces)  or ORM(object relation object) tools
+BI (Business Intelligence) Developer: do reporting  of the database system , and do design and manage data warehouse(distribution centers)
