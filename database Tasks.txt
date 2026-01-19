@@ -17,3 +17,35 @@ Database Developer: implements the actual database including: tables and others.
 Database Administrator: set up software of the database. Also put permissions for control the user access in order to enhance the security .
 Application Developer: connects the applications to the database by using APIs (Application Programming interfaces)  or ORM(object relation object) tools
 BI (Business Intelligence) Developer: do reporting  of the database system , and do design and manage data warehouse(distribution centers)
+-----------------------------------------------------------------
+4.Types of Databases:
+
+Relational Database:
+stores the data in in tables within rows and columns and use SQL for make queries.
+use cases : Bank system 
+Examples: MySQL
+
+Non-Relational Database: 
+stores the data in flexible format documents, and  graphs.
+suitable for large usage 
+use cases: Social media feeds
+Examples: MongoDB (document-based)
+
+Centralized vs. Distributed vs. Cloud Databases:
+Centralized Database: stores data in one location and this type facilitate to secure and manage the database.
+use cases: Small businesses
+
+Distributed Databases:
+Date sorted in multiple locations and it is easy to access the data.
+use cases:Global e-commerce platforms
+
+Cloud Databases:
+
+
+ 
+
+
+
+
+
+
