@@ -37,10 +37,11 @@ use cases: Small businesses
 
 Distributed Databases:
 Date sorted in multiple locations and it is easy to access the data.
-use cases:Global e-commerce platforms
+use cases: Global e-commerce platforms
 
 Cloud Databases:
-
+it managed by providers like AWS, Azure, or Google Cloud.it allows users to scale up or down the resources.
+Use case: modern applications.
 
  
 
