@@ -15,7 +15,7 @@ System analyst: gather the requirements by understand business needs and transla
 Database Designer: drew the tables using ERD which stand to entity relationships diagrams in order to represent data relationships.
 Database Developer: implements the actual database including: tables and others. also Database Developer writes SQL queries.
 Database Administrator: set up software of the database. Also put permissions for control the user access in order to enhance the security .
-Application Developer: connects the applications to the database by using APIs (Application Programming interfaces)  or ORM(object relation object) tools
+Application Developer:  Builds applications and connects the applications to the database by using APIs (Application Programming interfaces)  or ORM(object relation object) tools 
 BI (Business Intelligence) Developer: do reporting  of the database system , and do design and manage data warehouse(distribution centers)
 -----------------------------------------------------------------
 4.Types of Databases:
