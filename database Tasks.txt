@@ -42,6 +42,22 @@ use cases: Global e-commerce platforms
 Cloud Databases:
 it managed by providers like AWS, Azure, or Google Cloud.it allows users to scale up or down the resources.
 Use case: modern applications.
+------------------------------------------------------------
+5.Cloud Storage and Databases:
+a. is a service that allow users to save their digital data such as: files, photos, or videos on remote servers over the internet.
+by providing scalable  and accessible infrastructure in order to store the data.so, it offers automated backups. 
+
+b. Advantages of using cloud based databases:
+1. Accessibility:  users can access the data from anywhere over the internet.
+2. Enhanced security: by providing multi layered security and encryption, the cloud storage secure the data from any attack
+3. Reduced operational overhead: by using cloud storage, the system less need to power and physical space.
+sensitive or private information
+c. Disadvantages or challenges with cloud-based databases:
+1. Data exposures: because of poor configuration or inside threats, data could be breaches which means that the sensitive or private data could be stolen
+exposed without authorization.
+2.Internet and dependency: if there is no internet , so users can not access to the database.
+3.cost of using cloud storage is expensive.
+
 
  
 
